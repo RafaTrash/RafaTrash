@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Rafael Rodrigues
+# Rafael Rodrigues
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/rafaelrrodrigues/">
@@ -20,7 +20,7 @@ Full Stack Developer with a passion for building scalable web applications and s
 
 Currently focusing on:
 - 🎓 Building educational platforms with real-time data analytics
-- 🚀 Deploying to cloud platforms (Render, Vercel, AWS)
+- 🚀 Deploying to cloud platforms (Render, Vercel, AWS, Azure, Google and others)
 - 📊 Learning management systems and student progress tracking
 - 🤖 Integrating AI/ML solutions with LLMs (Groq API)
 
@@ -52,8 +52,11 @@ Currently focusing on:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaTrash&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=RafaTrash&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RafaTrash&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide=prs" alt="Rafael's GitHub Stats" width="400" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RafaTrash&layout=compact&theme=github_dark&langs_count=6" alt="Top Languages" width="400" />
 </div>
 
 ---
